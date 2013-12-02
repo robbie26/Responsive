@@ -1,7 +1,7 @@
 /* Stylesheet */
 body{
 	font-family: 'Luckiest Guy', cursive;
-	background-image:url('../img/Mushroom.PNG');
+	background-image:url('img/Mushroom.PNG');
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-position:center;
